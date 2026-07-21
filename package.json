@@ -1,0 +1,11 @@
+{
+  "name": "task-4-temperature-converter",
+  "version": "1.0.0",
+  "description": "A menu-driven Temperature Converter console application.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Senior JavaScript Developer",
+  "license": "ISC"
+}
